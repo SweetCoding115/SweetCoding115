@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a Freelancer
+- 🤔 I’m looking for opportunity to be a member of an agency or a team
+- 💡 Open to collaborating on projects and innovative ideas.
+- 💬 Ask me about problems arising in development of your site
+- 😄 You can find me.<br/>
+
+## How to Reach Me
+
+<p align='left'>
+  <a href="mailto:petj.ring@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://join.skype.com/invite/q7kutPqmW3gp" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+</p>
+
+<hr/>
+
+<a align="left" href="https://github.com/SweetCoding115">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=110&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+%7C;+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
+</a>
