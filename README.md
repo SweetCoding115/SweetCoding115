@@ -1,3 +1,7 @@
+<div align="center" width='100%'>
+  <a align='center' width='100%' href="#"><img src="https://github.com/SweetCoding115/SweetCoding115/blob/main/assets/pompo-the-cinephile-typing-fast.gif" width="400" alt="MoriahDev's Logo image" style='margin-bottom:30px;'/></a>
+</div>
+
 ### Hi there 👋
 
 <!--
