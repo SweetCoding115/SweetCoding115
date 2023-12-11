@@ -28,11 +28,17 @@ Here are some ideas to get you started:
 ## How to Reach Me
 
 <p align='left'>
-  <a href="mailto:petj.ring@gmail.com" target="_blank">
+  <a href="mailto:moriahbuckridge96115@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://join.skype.com/invite/q7kutPqmW3gp" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+  <a href="https://www.behance.net/merndev115" target="_blank">
+    <img src="https://img.shields.io/badge/behance-44cc11?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+  </a>
+  <a href="https://discordapp.com/users/1137049992398381087" target="_blank">
+    <img src="https://img.shields.io/badge/discord-9696ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
