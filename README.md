@@ -28,12 +28,8 @@ Here are some ideas to get you started:
 ## How to Reach Me
 
 <p align='left'>
-  <a href="mailto:moriahbuckridge96115@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://join.skype.com/invite/q7kutPqmW3gp" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
+  <a href="mailto:moriahbuckridge96115@gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb66yI_jXnuDxv8naKuLlYwks0JurxFpheA&usqp=CAU" alt="Gmail" height="50" title="Send mail"></a>
+  <a href="https://join.skype.com/invite/q7kutPqmW3gp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiLskeCA5JwI12NwCtINHwjceDGxzPohB0h8Zb58N3cxRcRyGg6GX&usqp=CAE&s" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
   <a href="https://www.behance.net/merndev115" target="_blank">
     <img src="https://img.shields.io/badge/behance-44cc11?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
