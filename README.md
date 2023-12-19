@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="mailto:moriahbuckridge96115@gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb66yI_jXnuDxv8naKuLlYwks0JurxFpheA&usqp=CAU" alt="Gmail" height="50" title="Send mail"></a>
   <a href="https://join.skype.com/invite/q7kutPqmW3gp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiLskeCA5JwI12NwCtINHwjceDGxzPohB0h8Zb58N3cxRcRyGg6GX&usqp=CAE&s" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
   <a href="https://www.behance.net/merndev115" target="_blank">
-    <img src="https://img.shields.io/badge/behance-44cc11?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+    <img src="https://logos-world.net/wp-content/uploads/2022/04/Behance-Emblem.png" alt="Behance">
   </a>
   <a href="https://discordapp.com/users/1137049992398381087" target="_blank">
     <img src="https://img.shields.io/badge/discord-9696ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
