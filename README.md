@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about problems arising in development of your site
 - 😄 You can find me when you have any trouble.<br/>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d17caeac-fd15-422d-a1e6-fa390a3a09e4/deploy-status)](https://app.netlify.com/sites/nextui-nextauth-mongodb/deploys)
+
 ## How to Reach Me
 
 <p align='left'>
