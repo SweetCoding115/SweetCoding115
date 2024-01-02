@@ -1,5 +1,3 @@
-### Hi there 👋<!--suppress HtmlDeprecatedAttribute -->
-
 # Hello, Everyone
 
 <h3 align="center" style="color: #fff">💖Visit Count💖</h3>
@@ -146,12 +144,6 @@
   ![SweetCoding115's github stats](https://github-readme-stats.vercel.app/api?username=SweetCoding115&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
   ![SweetCoding115's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetCoding115&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
-</div>
-
----
-
-<div align="center" width='100%'>
-  <a align='center' width='100%' href="#"><img src="https://github.com/SweetCoding115/SweetCoding115/blob/main/assets/pompo-the-cinephile-typing-fast.gif" width="600" alt="MoriahDev's Logo image" style='margin-bottom:30px;'/></a>
 </div>
 
 ### Hi there 👋
