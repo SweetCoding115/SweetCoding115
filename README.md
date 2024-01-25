@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about problems arising in development of your site
 - 😄 You can find me when you have any trouble.<br/>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c57b7017-ba41-4b54-a480-ee1294793b84/deploy-status)](https://app.netlify.com/sites/ecom-crm-next-ui/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c57b7017-ba41-4b54-a480-ee1294793b84/deploy-status)](https://ecom-crm-next-ui.netlify.app)
 
 ## How to Reach Me
 
