@@ -3,18 +3,23 @@
 <h3 align="center" style="color: #fff">💖Visit Count💖</h3>
 <br>
 <p align="center">
-<a href="https://gist.github.com/SweetCoding115"><img src="https://profile-counter.glitch.me/SweetCoding115/count.svg" alt="SweetCoding115 :: SweetCoding115's Count" /></a>
+  <a href="https://gist.github.com/SweetCoding115"><img src="https://profile-counter.glitch.me/SweetCoding115/count.svg" alt="SweetCoding115 :: SweetCoding115's Count" /></a>
 </p>
-
+<br>
+<p align="center">
+  <a href="https://app.daily.dev/sweetcoding115"><img src="https://api.daily.dev/devcards/v2/zr6pOTPr2aGWGsqFGAXQ3.png?type=wide&r=zds" width="70%" alt="Vue, Laravel, NextJS Dev's Dev Card"/></a>
+</p>
 # My Main Stack
 
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
-<a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<p align="center">
+  <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
+  <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
+  <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
+  <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
+  <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
+  <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+</p>
 
 # Languages & Framework
 
@@ -173,7 +178,7 @@ Here are some ideas to get you started:
 
 ## How to Reach Me
 
-<p align='left'>
+<p align='center'>
   <a href="mailto:moriahbuckridge96115@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
