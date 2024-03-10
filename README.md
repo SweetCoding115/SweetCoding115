@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://app.daily.dev/sweetcoding115"><img src="https://api.daily.dev/devcards/v2/zr6pOTPr2aGWGsqFGAXQ3.png?type=wide&r=zds" width="70%" alt="Vue, Laravel, NextJS Dev's Dev Card"/></a>
 </p>
+
 # My Main Stack
 
 <p align="center">
