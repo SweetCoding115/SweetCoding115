@@ -168,12 +168,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 - 🔭 I’m currently working as a Freelancer
 - 🤔 I’m looking for opportunity to be a member of an agency or a team
 - 💡 Open to collaborating on projects and innovative ideas.
 - 💬 Ask me about problems arising in development of your site
-- 😄 You can find me when you have any trouble.<br/>
+- 😄 You can find me when you have any trouble.
+-->
+
+
+- 💻 Experience in React, Angular, Vue, Nodejs, and JavaScript
+- 🚀 Developed scalable web applications using React and Node.js
+- 🔧 Familiar in database design (SQL, MongoDB)
+- 📈 Proven track record in optimizing code for performance
+- 🏆 Recognized for outstanding problem-solving skills
+- 📚 Dedicated to continuous learning in tech trends
+- 🔗 Let's connect! Open to new opportunities and collaborations.<br/>
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c57b7017-ba41-4b54-a480-ee1294793b84/deploy-status)](https://ecom-crm-next-ui.netlify.app)
 
