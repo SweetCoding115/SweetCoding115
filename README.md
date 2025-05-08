@@ -188,6 +188,7 @@ Here are some ideas to get you started:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c57b7017-ba41-4b54-a480-ee1294793b84/deploy-status)](https://ecom-crm-next-ui.netlify.app)
 
+<!--
 ## How to Reach Me
 
 <p align='center'>
@@ -210,3 +211,4 @@ Here are some ideas to get you started:
 <a align="left" href="https://github.com/SweetCoding115">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&theme=dracula&duration=3000&pause=200&multiline=true&width=1000&height=110&lines=✨I+am+a+Full+Stack+Web+Developer+%7C;+Front-end,+Back-end+|+DataBase+Intergration+%7C;+API+Integration+|+Payment+Gateway+Integration+%7C;+Converting+Figma,+PSD+into+HTML,+CSS,+JavaScript" alt="Typing SVG" />
 </a>
+-->
