@@ -5,22 +5,25 @@
 <p align="center">
   <a href="https://gist.github.com/SweetCoding115"><img src="https://profile-counter.glitch.me/SweetCoding115/count.svg" alt="SweetCoding115 :: SweetCoding115's Count" /></a>
 </p>
-<br>
-<p align="center">
-  <a href="https://app.daily.dev/jessie31"><img src="./devcard.png" width="70%" alt="Vue, Laravel, NextJS Dev's Dev Card"/></a>
-</p>
 
 # My Main Stack
 
-<p align="center">
-  <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-  <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
-  <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-  <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-  <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-  <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-  <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="30%" align="center">
+      <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a><br>
+      <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a><br>
+      <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a><br>
+      <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a><br>
+      <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a><br>
+      <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a><br>
+      <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+    </td>
+    <td align="center" width="70%">
+      <a href="https://app.daily.dev/jessie31"><img src="./devcard.png" alt="Jessie's Dev Card" width="100%"/></a>
+    </td>
+  </tr>
+</table>
 
 # Languages & Framework
 
