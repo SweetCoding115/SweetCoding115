@@ -7,7 +7,7 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://app.daily.dev/sweetcoding115"><img src="https://api.daily.dev/devcards/v2/zr6pOTPr2aGWGsqFGAXQ3.png?type=wide&r=zds" width="70%" alt="Vue, Laravel, NextJS Dev's Dev Card"/></a>
+  <a href="https://app.daily.dev/jessie31"><img src="https://api.daily.dev/devcards/v2/Wq0sxzbOiuv1ybbYn4EFF.png?type=wide&r=d9w" width="70%" alt="Vue, Laravel, NextJS Dev's Dev Card"/></a>
 </p>
 
 # My Main Stack
