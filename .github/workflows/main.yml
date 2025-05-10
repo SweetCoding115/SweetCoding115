@@ -6,14 +6,28 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: devcard
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate vertical DevCard
         uses: dailydotdev/action-devcard@3.0.0
         with:
           user_id: ${{ secrets.USER_ID }}
-          commit_message: "chore: update ${filename}"
+          file_name: devcard-vertical.png
+          type: default
+          commit_message: "chore: update vertical devcard"
+
+      - name: Generate horizontal DevCard
+        uses: dailydotdev/action-devcard@3.0.0
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          file_name: devcard-horizontal.png
+          type: wide
+          commit_message: "chore: update horizontal devcard"
